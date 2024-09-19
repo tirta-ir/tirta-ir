@@ -1,7 +1,7 @@
 # Nice to meet you!
 
 ## 🧑🏽 Introduction
-Hi! **Tirta** here. Currently working as a **Software and IoT Engineer** for a leading pharmaceutical company in southeast asia.
+Hi! **Tirta** here. Currently working as a **IoT and Digital Twin Engineer** for a leading pharmaceutical company in southeast asia.
 
 I'm an **engineer** who dedicated to making a **meaningful contribution** to the fields of technology, business, and management.
 
